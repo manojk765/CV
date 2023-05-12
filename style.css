@@ -1,0 +1,51 @@
+body{
+    font-family: 'Montserrat', sans-serif;;
+    align-items: center;
+    margin: 0%;
+}
+
+
+.d1{
+    background-color: #F97B22;
+}
+
+.signup{
+    position: relative;
+    right: 0px;   
+}
+
+.d3{
+    background-color: #1B9C85;
+    margin-bottom: 0px;
+}
+
+.d1 , .d2 , .d3 , .d4{
+    text-align: center;
+    text-align: center;
+    margin: 0px;
+    border: 0px;
+}
+
+.list{
+    list-style: none;
+}
+
+.d4{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThd2zzxkwtX7RAVA8d8ilPHPhvA8aN2bcKXVMFt-QqJbpxQOUFkkFB4Sg7nxgK-Mx2ejk&usqp=CAU");
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.d{
+    margin-left: 20px;
+}
+
+.d5{
+    display: flex;
+    justify-content: center;
+    
+}
